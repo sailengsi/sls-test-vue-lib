@@ -1,2 +1,16 @@
 # sls-test-vue-lib
-基于vue的组件库测试模式。
+> sls-test-vue-lib
+
+## Development
+
+```shell
+npm run dev
+```
+
+## Production
+```
+npm run dist
+```
+
+## License
+ISC
